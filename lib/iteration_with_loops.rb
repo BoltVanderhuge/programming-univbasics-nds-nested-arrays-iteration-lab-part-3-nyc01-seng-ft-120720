@@ -10,7 +10,3 @@ while row_index < src do
   end
   row_index += 1
 end
-
- 
- 
-end
